@@ -1,6 +1,6 @@
 # Trabalhinho
 - trabalho de pensamento computacional muito maneiro
-- Oi, sou Heitor, uso o canva
+- Oi, sou Heitor, uso o [Alura](https://alura.com.br)
 - # Meu email
 - heitor.prado.lima@escola.pr.gov.br
 - Se precisar de qualquer coisa to aqui
